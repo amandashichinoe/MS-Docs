@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\MS-docs\CSharp\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\ref\AsyncBreakfast.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\bin\Debug\net5.0\AsyncBreakfast.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\ref\AsyncBreakfast.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Estudos C-Sharp\AsyncBreakfast\obj\Debug\net5.0\AsyncBreakfast.genruntimeconfig.cache
